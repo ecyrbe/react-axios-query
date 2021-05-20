@@ -1,6 +1,6 @@
 {
   "name": "react-axios-query",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Combine the power of react-query and axios",
   "repository": "https://github.com/ecyrbe/react-axios-query.git",
   "author": "ecyrbe <ecyrbe@gmail.com>",
