@@ -11,7 +11,7 @@ yarn add react-axios-query
 # use
 
 ```javascript
-import { useAxios } from 'react-axios-hook';
+import { useAxios } from 'react-axios-query';
 
 type User = {
   name: string;
